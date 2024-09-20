@@ -23,11 +23,11 @@ final exam scores based on predetermined weights.
 based on the school's grading scale.
 - Inputs: Weighted average score
 - Output: Letter grade (A, B, C, etc.)
-A: 90-100
-B: 80-89
-C: 70-79
-D: 60-69
-F: 0-59
+A: 90-100 
+,B: 80-89 
+,C: 70-79 
+,D: 60-69 
+and F: 0-59
 
 **Function 3: Display Student Report**
 - This function displays a student's name, scores for each assignment and quiz, final
