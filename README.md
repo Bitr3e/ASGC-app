@@ -1,4 +1,4 @@
-# SGC-app
+# ASGC-app
 # Case Study: Automated Student Grade Calculation (ASGC)
 
 **Problem Statement:**
