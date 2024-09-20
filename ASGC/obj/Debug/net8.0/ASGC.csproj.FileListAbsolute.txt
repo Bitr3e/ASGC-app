@@ -1,0 +1,15 @@
+C:\Users\johnb\OneDrive\Desktop\ASGC-app\ASGC\bin\Debug\net8.0\ASGC.exe
+C:\Users\johnb\OneDrive\Desktop\ASGC-app\ASGC\bin\Debug\net8.0\ASGC.deps.json
+C:\Users\johnb\OneDrive\Desktop\ASGC-app\ASGC\bin\Debug\net8.0\ASGC.runtimeconfig.json
+C:\Users\johnb\OneDrive\Desktop\ASGC-app\ASGC\bin\Debug\net8.0\ASGC.dll
+C:\Users\johnb\OneDrive\Desktop\ASGC-app\ASGC\bin\Debug\net8.0\ASGC.pdb
+C:\Users\johnb\OneDrive\Desktop\ASGC-app\ASGC\obj\Debug\net8.0\ASGC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnb\OneDrive\Desktop\ASGC-app\ASGC\obj\Debug\net8.0\ASGC.AssemblyInfoInputs.cache
+C:\Users\johnb\OneDrive\Desktop\ASGC-app\ASGC\obj\Debug\net8.0\ASGC.AssemblyInfo.cs
+C:\Users\johnb\OneDrive\Desktop\ASGC-app\ASGC\obj\Debug\net8.0\ASGC.csproj.CoreCompileInputs.cache
+C:\Users\johnb\OneDrive\Desktop\ASGC-app\ASGC\obj\Debug\net8.0\ASGC.sourcelink.json
+C:\Users\johnb\OneDrive\Desktop\ASGC-app\ASGC\obj\Debug\net8.0\ASGC.dll
+C:\Users\johnb\OneDrive\Desktop\ASGC-app\ASGC\obj\Debug\net8.0\refint\ASGC.dll
+C:\Users\johnb\OneDrive\Desktop\ASGC-app\ASGC\obj\Debug\net8.0\ASGC.pdb
+C:\Users\johnb\OneDrive\Desktop\ASGC-app\ASGC\obj\Debug\net8.0\ASGC.genruntimeconfig.cache
+C:\Users\johnb\OneDrive\Desktop\ASGC-app\ASGC\obj\Debug\net8.0\ref\ASGC.dll
